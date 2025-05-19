@@ -1,0 +1,61 @@
+    .caratula {
+        background-color: #f0f0f0;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+        color: black;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .caratula>img {
+        width: 30%;
+        border-radius: 90px;
+
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    ul li {
+        margin: 0.5rem 0;
+        text-align: center;
+    }
+
+    .footer {
+        margin-top: 2rem;
+        text-align: center;
+        font-style: italic;
+        color: #666;
+    }
+
+    @media (max-width: 600px) {
+
+        h1,
+        h2,
+        h3 {
+            font-size: 1.2rem;
+                    margin: 0px 0px 0px 0px;
+
+        }
+        
+        #espacio {
+            height: 20px;
+        }
+
+        ul li {
+            font-size: 0.95rem;
+        }
+    }
