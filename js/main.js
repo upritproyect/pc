@@ -5,7 +5,7 @@
       { symbol: "\u028a", word: "book", word2: "Joel" },
       { symbol: "u:", word: "shoe", word2: "Joel" },
       { symbol: "e", word: "pet", word2: "Rosa" },
-      { symbol: "\u0259", word: "letter", word2: "Rosa" },
+      { symbol: "\u0259", word: "the", word2: "Rosa" },
       { symbol: "\u025c:", word: "turn", word2: "learn" },
       { symbol: "\u0254:", word: "saw", word2: "saw" },
       { symbol: "\u00e6", word: "flat", word2: "hat" },
@@ -15,9 +15,9 @@
     ];
 
     const diphthongs = [
-      { symbol: "\u0259", word: "year", word2: "Rosa" },
+      { symbol: "\u026a\u0259", word: "year", word2: "Rosa" },
       { symbol: "e\u026a", word: "pray", word2: "Rosa" },
-      { symbol: "\u0259\u028a", word: "tour", word2: "sure" },
+      { symbol: "\u028a\u0259", word: "tour", word2: "sure" },
       { symbol: "\u0254\u026a", word: "voice", word2: "Ricci" },
       { symbol: "\u0259\u028a", word: "go", word2: "Ricci" },
       { symbol: "e\u0259", word: "share", word2: "care" },
