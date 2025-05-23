@@ -4,23 +4,23 @@
       { symbol: "\u026a", word: "sit", word2: "Joel" },
       { symbol: "\u028a", word: "book", word2: "Joel" },
       { symbol: "u:", word: "shoe", word2: "Joel" },
-      { symbol: "e", word: "pet", word2: "Rosa" },
-      { symbol: "\u0259", word: "the", word2: "Rosa" },
-      { symbol: "\u025c:", word: "turn", word2: "learn" },
-      { symbol: "\u0254:", word: "saw", word2: "saw" },
-      { symbol: "\u00e6", word: "flat", word2: "hat" },
-      { symbol: "\u028c", word: "but", word2: "cup" },
-      { symbol: "\u0251:", word: "card", word2: "car" },
-      { symbol: "\u0252", word: "hot", word2: "pot" }
+      { symbol: "e", word: "pet", word2: "Joel - Rosa" },
+      { symbol: "\u0259", word: "the", word2: "Joel" },
+      { symbol: "\u025c:", word: "turn", word2: "Joel" },
+      { symbol: "\u0254:", word: "saw", word2: "Joel" },
+      { symbol: "\u00e6", word: "flat", word2: "Maruja - Joel" },
+      { symbol: "\u028c", word: "but", word2: "Maruja - Joel" },
+      { symbol: "\u0251:", word: "card", word2: "Maruja - Joel" },
+      { symbol: "\u0252", word: "hot", word2: "Maruja - Joel" }
     ];
 
     const diphthongs = [
-      { symbol: "\u026a\u0259", word: "year", word2: "Rosa" },
-      { symbol: "e\u026a", word: "pray", word2: "Rosa" },
-      { symbol: "\u028a\u0259", word: "tour", word2: "sure" },
+      { symbol: "\u026a\u0259", word: "year", word2: "Joel - Rosa" },
+      { symbol: "e\u026a", word: "pray", word2: "Joel - Rosa" },
+      { symbol: "\u028a\u0259", word: "tour", word2: "Joel" },
       { symbol: "\u0254\u026a", word: "voice", word2: "Ricci" },
       { symbol: "\u0259\u028a", word: "go", word2: "Ricci" },
-      { symbol: "e\u0259", word: "share", word2: "care" },
+      { symbol: "e\u0259", word: "share", word2: "Joel" },
       { symbol: "a\u026a", word: "fly", word2: "Ricci" },
       { symbol: "a\u028a", word: "out", word2: "Ricci" }
     ];
